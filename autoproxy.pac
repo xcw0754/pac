@@ -15,11 +15,23 @@ var rules = [
         ], 
         /* 块1 */
         [
-            "*www.baidu.com*",
-            "*cnblogs.com*", 
-            "*iciba.com*", 
-            "*sina.com*", 
-            "*163.com*"
+            "*ishadowx.net*" ,
+            "*csdn.net*"     ,
+            "*w3school.com*" ,
+            "*jianshu.com*"  ,
+            "*bilibili.com*" ,
+            "*cnblogs.com*"  ,
+            "*taobao.com*"   ,
+            "*github.com*"   ,
+            "*tmall.com*"    ,
+            "*zhihu.com*"    ,
+            "*baidu.com*"    ,
+            "*weibo.com*"    ,
+            "*iciba.com*"    ,
+            "*sina.com*"     ,
+            "*163.com*"      ,
+            "*qq.com*"       ,
+            "*360.cn*"       
         ], 
         /* 块2 */
         [
@@ -28,6 +40,7 @@ var rules = [
         ], 
         /* 块3 */
         [
+            "*chrome.com*", 
             "*bandwagonhost.com*", 
             "*twitter.com*", 
             "*youtube.com*"
