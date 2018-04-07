@@ -43,7 +43,8 @@ var rules = [
             "*chrome.com*", 
             "*bandwagonhost.com*", 
             "*twitter.com*", 
-            "*youtube.com*"
+            "*youtube.com*",
+            "*amazon.com*"
         ]
     ], 
     /* 优先级次之 */

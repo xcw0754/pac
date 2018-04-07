@@ -1,10 +1,10 @@
 # pac
 
-代理用的pac文件(js编写)，一般只能放在本地使用，其他的没有测试过。不同浏览器兼容性未知，chrome、firefox可用。如果想要自己添加一些规则请参考PAC文件中的注释，语言是JS。
+代理用的pac文件。如果想要自己添加一些规则请参考注释，语言是JS。
 
 
 **使用方法**:
-1. `Ubunut` 系统设置->网络->网络代理 方法设置为自动，URL填autoproxy.pac地址，如`/home/username/pac/autoproxy.pac`，点击应用即可。
+1. `Ubuntu` 系统设置->网络->网络代理 方法设置为自动，URL填autoproxy.pac地址，如`/home/username/pac/autoproxy.pac`，点击应用即可。
 
 
 **参考文档**:
